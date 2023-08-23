@@ -1,0 +1,31 @@
+tieba.baidu.com##.hover_btn
+tieba.baidu.com##.label_text
+tieba.baidu.com##.close_btn, .j_click_close
+kan.2345.com###zhiBo1
+kan.2345.com###zhiBo2
+kan.2345.com###__SVM_shortMovie__ > div.v_mod
+t.bilibili.com###app > div.bili-dyn-home--member:last-child > div.bili-dyn-version-control:last-child > div.bili-dyn-version-control__reminding:last-child
+t.bilibili.com##.topic-panel
+github.com##.Box-sc-g0xbh4-0.hKtuLA:has-text(cirosantilli)
+github.com##.Box-sc-g0xbh4-0.hKtuLA:has-text(cheezcharmer)
+github.com##.Box-sc-g0xbh4-0.hKtuLA:has-text(zaohmeing)
+github.com##.Box-sc-g0xbh4-0.hKtuLA:has-text(zhaohmng-outlook-com)
+github.com##.Box-sc-g0xbh4-0.hKtuLA:has-text(codin-stuffs)
+github.com##.Box-sc-g0xbh4-0.hKtuLA:has-text(Dimples1337)
+github.com##.Box-sc-g0xbh4-0.hKtuLA:has-text(pxvr-official)
+github.com##.Box-sc-g0xbh4-0.hKtuLA:has-text(b0LBwZ7r5HOeh6CBMuQIhVu3-s-random-fork)
+github.com##.Box-sc-g0xbh4-0.hKtuLA:has-text(lTbgykio)
+github.com##.Box-sc-g0xbh4-0.hKtuLA:has-text(Dujltqzv)
+github.com##.Box-sc-g0xbh4-0.hKtuLA:has-text(fighting41love)
+github.com##.Box-sc-g0xbh4-0.hKtuLA:has-text(JimmyLv)
+github.com##.Box-sc-g0xbh4-0.hKtuLA:has-text(Jackerblace)
+github.com##.Box-sc-g0xbh4-0.hKtuLA:has-text(zpc1314521)
+github.com##.Box-sc-g0xbh4-0.hKtuLA:has-text(gege-circle)
+
+
+shield.js
+
+bilibili.com##.eva-extension-area
+webstatic.mihoyo.com###root > div.mhy-map-container:last-child > div.mhy-game-gis > div.mhy-map.leaflet-container.leaflet-touch.leaflet-retina.leaflet-grab.leaflet-touch-drag.leaflet-touch-zoom:first-child > div.leaflet-pane.leaflet-map-pane:first-child > div.leaflet-pane.leaflet-overlay-pane:nth-child(2) > img.leaflet-marker-icon.leaflet-zoom-hide.leaflet-interactive
+bilibili.com##.pop-live-small-mode, .part-undefined
+bilibili.com##.bili-avatar-icon, .bili-avatar-right-icon, .bili-avatar-size-40
