@@ -30,3 +30,21 @@ bilibili.com##.eva-extension-area
 webstatic.mihoyo.com###root > div.mhy-map-container:last-child > div.mhy-game-gis > div.mhy-map.leaflet-container.leaflet-touch.leaflet-retina.leaflet-grab.leaflet-touch-drag.leaflet-touch-zoom:first-child > div.leaflet-pane.leaflet-map-pane:first-child > div.leaflet-pane.leaflet-overlay-pane:nth-child(2) > img.leaflet-marker-icon.leaflet-zoom-hide.leaflet-interactive
 bilibili.com##.pop-live-small-mode, .part-undefined
 bilibili.com##.bili-avatar-icon, .bili-avatar-right-icon, .bili-avatar-size-40
+
+bilibili.com###i_cecream > div.adblock-tips:nth-child(2)
+t.bilibili.com###app > div.bili-dyn-home--member:last-child > div.bili-dyn-version-control:last-child > div.bili-dyn-version-control__reminding:last-child
+liaoxuefeng.com###x-sidebar-left-bottom > div.uk-margin-top:first-child
+bilibili.com##.pop-live-small-mode, .part-undefined
+bilibili.com##.bpx-player-cmd-dm-inside
+bilibili.com##.bili-vote.bili-show
+bilibili.com##.bili-vote.bili-voted.bili-show
+bilibili.com##.bili-guide-all.bili-guide.bili-guide-followed.bili-show
+kaoyan.koolearn.com##.bottom-fixed-zhenti
+kaoyan.koolearn.com##.leftAd
+bilibili.com###slide_ad > div.slide-gg
+bilibili.com###reportFirst2
+bilibili.com##.inside-wrp
+bilibili.com##.video-page-game-card
+taodudu.cc
+so.csdn.net###chatRef
+so.csdn.net###app > div.so-list-detail:last-child > div.main.clearfix:last-child > div.so-search-bar:first-child > div.s-nav:first-child > div.s-nav-lt:first-child > ul > li:nth-child(2)

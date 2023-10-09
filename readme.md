@@ -1,1 +1,1 @@
-黑名单
+blacklist
