@@ -22,7 +22,7 @@ github.com##.Box-sc-g0xbh4-0.hKtuLA:has-text(Jackerblace)
 github.com##.Box-sc-g0xbh4-0.hKtuLA:has-text(zpc1314521)
 github.com##.Box-sc-g0xbh4-0.hKtuLA:has-text(gege-circle)
 github.com##.Box-sc-g0xbh4-0.hKtuLA:has-text(sachinwarankar)
-
+github.com##.Box-sc-g0xbh4-0.hKtuLA:has-text(duty-machine)
 
 shield.js
 
