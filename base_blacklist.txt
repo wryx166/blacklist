@@ -32,19 +32,3 @@ bilibili.com##.video-page-game-card
 taodudu.cc
 so.csdn.net###chatRef
 so.csdn.net###app > div.so-list-detail:last-child > div.main.clearfix:last-child > div.so-search-bar:first-child > div.s-nav:first-child > div.s-nav-lt:first-child > ul > li:nth-child(2)
-
-github.com##.Box-sc-g0xbh4-0.bDcVHV:has-text(cirosantilli)
-github.com##.Box-sc-g0xbh4-0.bDcVHV:has-text(cheezcharmer)
-github.com##.Box-sc-g0xbh4-0.bDcVHV:has-text(zaohmeing)
-github.com##.Box-sc-g0xbh4-0.bDcVHV:has-text(zhaohmng-outlook-com)
-github.com##.Box-sc-g0xbh4-0.bDcVHV:has-text(codin-stuffs)
-github.com##.Box-sc-g0xbh4-0.bDcVHV:has-text(Dimples1337)
-github.com##.Box-sc-g0xbh4-0.bDcVHV:has-text(pxvr-official)
-github.com##.Box-sc-g0xbh4-0.bDcVHV:has-text(b0LBwZ7r5HOeh6CBMuQIhVu3-s-random-fork)
-github.com##.Box-sc-g0xbh4-0.bDcVHV:has-text(lTbgykio)
-github.com##.Box-sc-g0xbh4-0.bDcVHV:has-text(Dujltqzv)
-github.com##.Box-sc-g0xbh4-0.bDcVHV:has-text(fighting41love)
-github.com##.Box-sc-g0xbh4-0.bDcVHV:has-text(JimmyLv)
-github.com##.Box-sc-g0xbh4-0.bDcVHV:has-text(Jackerblace)
-github.com##.Box-sc-g0xbh4-0.bDcVHV:has-text(zpc1314521)
-github.com##.Box-sc-g0xbh4-0.bDcVHV:has-text(gege-circle)
