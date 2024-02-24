@@ -8,25 +8,24 @@ kan.2345.com###__SVM_shortMovie__ > div.v_mod
 
 shield.js
 
-bilibili.com##.eva-extension-area
-bilibili.com##.pop-live-small-mode, .part-undefined
-bilibili.com##.bili-avatar-icon, .bili-avatar-right-icon, .bili-avatar-size-40
-bilibili.com###i_cecream > div.adblock-tips:nth-child(2)
-bilibili.com##.pop-live-small-mode, .part-undefined
-bilibili.com##.bpx-player-cmd-dm-inside
-bilibili.com##.bili-vote.bili-show
-bilibili.com##.bili-vote.bili-voted.bili-show
-bilibili.com##.bili-guide-all.bili-guide.bili-guide-followed.bili-show
-bilibili.com###slide_ad > div.slide-gg
-bilibili.com###reportFirst2
 bilibili.com##.inside-wrp
+bilibili.com###reportFirst2
+bilibili.com##.eva-extension-area
+bilibili.com##.bili-vote.bili-show
 bilibili.com##.video-page-game-card
+bilibili.com###slide_ad > div.slide-gg
+bilibili.com##.bpx-player-cmd-dm-inside
+bilibili.com##.bili-vote.bili-voted.bili-show
+bilibili.com##.pop-live-small-mode, .part-undefined
+bilibili.com###i_cecream > div.adblock-tips:nth-child(2)
+bilibili.com##.bili-guide-all.bili-guide.bili-guide-followed.bili-show
+bilibili.com##.bili-avatar-icon, .bili-avatar-right-icon, .bili-avatar-size-40
 
-t.bilibili.com###app > div.bili-dyn-home--member:last-child > div.bili-dyn-version-control:last-child > div.bili-dyn-version-control__reminding:last-child
 t.bilibili.com##.topic-panel
+t.bilibili.com###app > div.bili-dyn-home--member:last-child > div.bili-dyn-version-control:last-child > div.bili-dyn-version-control__reminding:last-child
 
-kaoyan.koolearn.com##.bottom-fixed-zhenti
 kaoyan.koolearn.com##.leftAd
+kaoyan.koolearn.com##.bottom-fixed-zhenti
 
 liaoxuefeng.com###x-sidebar-left-bottom > div.uk-margin-top:first-child
 
