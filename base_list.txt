@@ -37,6 +37,7 @@ so.csdn.net###app > div.so-list-detail:last-child > div.main.clearfix:last-child
 ||s1.hdslb.com/bfs/seed/log/report/log-reporter.js$script,important
 ||s1.hdslb.com/bfs/seed/bplus-common/statistics-js/log-reporter.js$script,important
 ||s2.hdslb.com/bfs/seed/blive/blfe-link-shortassets/dist/component.statistics/log-reporter.js$script,important
+||s1.hdslb.com/bfs/seed/jinkela/short/reporter-pb/index.js$script,important
 
 ||www.baidu.com^$removeparam=oq
 ||www.baidu.com^$removeparam=inputT
