@@ -29,13 +29,26 @@ kaoyan.koolearn.com##.bottom-fixed-zhenti
 
 liaoxuefeng.com###x-sidebar-left-bottom > div.uk-margin-top:first-child
 
-webstatic.mihoyo.com###root > div.mhy-map-container:last-child > div.mhy-game-gis > div.mhy-map.leaflet-container.leaflet-touch.leaflet-retina.leaflet-grab.leaflet-touch-drag.leaflet-touch-zoom:first-child > div.leaflet-pane.leaflet-map-pane:first-child > div.leaflet-pane.leaflet-overlay-pane:nth-child(2) > img.leaflet-marker-icon.leaflet-zoom-hide.leaflet-interactive
-
 taodudu.cc
 
 so.csdn.net###chatRef
 so.csdn.net###app > div.so-list-detail:last-child > div.main.clearfix:last-child > div.so-search-bar:first-child > div.s-nav:first-child > div.s-nav-lt:first-child > ul > li:nth-child(2)
 
+||s1.hdslb.com/bfs/seed/log/report/log-reporter.js$script,important
+||s1.hdslb.com/bfs/seed/bplus-common/statistics-js/log-reporter.js$script,important
+||s2.hdslb.com/bfs/seed/blive/blfe-link-shortassets/dist/component.statistics/log-reporter.js$script,important
+
+||www.baidu.com^$removeparam=oq
+||www.baidu.com^$removeparam=inputT
+||www.baidu.com^$removeparam=rsv_dl
+||www.baidu.com^$removeparam=rqlang
+||www.baidu.com^$removeparam=rsv_enter
+||www.baidu.com^$removeparam=rsv_btype
+||www.baidu.com^$removeparam=rsv_bp
+||www.baidu.com^$removeparam=ch
+||www.baidu.com^$removeparam=bar
+||www.baidu.com^$removeparam=f
+||www.baidu.com^$removeparam=tn
 
 github.com##.Box-sc-g0xbh4-0.bDcVHV:has-text(cirosantilli)
 github.com##.Box-sc-g0xbh4-0.bDcVHV:has-text(cheezcharmer)
