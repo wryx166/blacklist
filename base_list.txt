@@ -34,10 +34,10 @@ taodudu.cc
 so.csdn.net###chatRef
 so.csdn.net###app > div.so-list-detail:last-child > div.main.clearfix:last-child > div.so-search-bar:first-child > div.s-nav:first-child > div.s-nav-lt:first-child > ul > li:nth-child(2)
 
-||s1.hdslb.com/bfs/seed/log/report/log-reporter.js$script,important
-||s1.hdslb.com/bfs/seed/bplus-common/statistics-js/log-reporter.js$script,important
-||s2.hdslb.com/bfs/seed/blive/blfe-link-shortassets/dist/component.statistics/log-reporter.js$script,important
-||s1.hdslb.com/bfs/seed/jinkela/short/reporter-pb/index.js$script,important
+! ||s1.hdslb.com/bfs/seed/log/report/log-reporter.js$script,important
+! ||s1.hdslb.com/bfs/seed/bplus-common/statistics-js/log-reporter.js$script,important
+! ||s2.hdslb.com/bfs/seed/blive/blfe-link-shortassets/dist/component.statistics/log-reporter.js$script,important
+! ||s1.hdslb.com/bfs/seed/jinkela/short/reporter-pb/index.js$script,important
 
 ||www.baidu.com^$removeparam=oq
 ||www.baidu.com^$removeparam=inputT
