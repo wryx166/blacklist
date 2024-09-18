@@ -21,6 +21,9 @@ bilibili.com###i_cecream > div.adblock-tips:nth-child(2)
 bilibili.com##.bili-guide-all.bili-guide.bili-guide-followed.bili-show
 bilibili.com##.bili-avatar-icon, .bili-avatar-right-icon, .bili-avatar-size-40
 
+t.bilibili.com##.topic-panel
+t.bilibili.com###app > div.bili-dyn-home--member:last-child > div.bili-dyn-version-control:last-child > div.bili-dyn-version-control__reminding:last-child
+
 kaoyan.koolearn.com##.leftAd
 kaoyan.koolearn.com##.bottom-fixed-zhenti
 
