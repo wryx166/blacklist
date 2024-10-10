@@ -29,7 +29,7 @@ kaoyan.koolearn.com##.bottom-fixed-zhenti
 
 liaoxuefeng.com###x-sidebar-left-bottom > div.uk-margin-top:first-child
 
-taodudu.cc
+! taodudu.cc
 
 so.csdn.net###chatRef
 so.csdn.net###app > div.so-list-detail:last-child > div.main.clearfix:last-child > div.so-search-bar:first-child > div.s-nav:first-child > div.s-nav-lt:first-child > ul > li:nth-child(2)
