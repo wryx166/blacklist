@@ -50,3 +50,7 @@ so.csdn.net###app > div.so-list-detail:last-child > div.main.clearfix:last-child
 ||www.baidu.com^$removeparam=bar
 ||www.baidu.com^$removeparam=f
 ||www.baidu.com^$removeparam=tn
+||www.baidu.com^$removeparam=rqid
+||www.baidu.com^$removeparam=rsf
+||www.baidu.com^$removeparam=sa
+||www.baidu.com^$removeparam=usm
