@@ -1,6 +1,6 @@
+tieba.baidu.com##.close_btn, .j_click_close
 tieba.baidu.com##.hover_btn
 tieba.baidu.com##.label_text
-tieba.baidu.com##.close_btn, .j_click_close
 
 kan.2345.com###zhiBo1
 kan.2345.com###zhiBo2
@@ -8,18 +8,19 @@ kan.2345.com###__SVM_shortMovie__ > div.v_mod
 
 shield.js
 
-bilibili.com##.inside-wrp
-bilibili.com###reportFirst2
-bilibili.com##.eva-extension-area
-bilibili.com##.bili-vote.bili-show
-bilibili.com##.video-page-game-card
-bilibili.com###slide_ad > div.slide-gg
-bilibili.com##.bpx-player-cmd-dm-inside
-bilibili.com##.bili-vote.bili-voted.bili-show
-bilibili.com##.pop-live-small-mode, .part-undefined
 bilibili.com###i_cecream > div.adblock-tips:nth-child(2)
-bilibili.com##.bili-guide-all.bili-guide.bili-guide-followed.bili-show
+bilibili.com###reportFirst2
+bilibili.com###slide_ad > div.slide-gg
+bilibili.com##.adblock-tips
 bilibili.com##.bili-avatar-icon, .bili-avatar-right-icon, .bili-avatar-size-40
+bilibili.com##.bili-guide-all.bili-guide.bili-guide-followed.bili-show
+bilibili.com##.bili-vote.bili-show
+bilibili.com##.bili-vote.bili-voted.bili-show
+bilibili.com##.bpx-player-cmd-dm-inside
+bilibili.com##.eva-extension-area
+bilibili.com##.inside-wrp
+bilibili.com##.pop-live-small-mode, .part-undefined
+bilibili.com##.video-page-game-card
 
 t.bilibili.com##.topic-panel
 t.bilibili.com###app > div.bili-dyn-home--member:last-child > div.bili-dyn-version-control:last-child > div.bili-dyn-version-control__reminding:last-child
@@ -39,21 +40,29 @@ so.csdn.net###app > div.so-list-detail:last-child > div.main.clearfix:last-child
 ! ||s2.hdslb.com/bfs/seed/blive/blfe-link-shortassets/dist/component.statistics/log-reporter.js$script,important
 ! ||s1.hdslb.com/bfs/seed/jinkela/short/reporter-pb/index.js$script,important
 
-||www.baidu.com^$removeparam=oq
-||www.baidu.com^$removeparam=inputT
-||www.baidu.com^$removeparam=rsv_dl
-||www.baidu.com^$removeparam=rqlang
-||www.baidu.com^$removeparam=rsv_enter
-||www.baidu.com^$removeparam=rsv_btype
-||www.baidu.com^$removeparam=rsv_bp
-||www.baidu.com^$removeparam=ch
 ||www.baidu.com^$removeparam=bar
+||www.baidu.com^$removeparam=ch
 ||www.baidu.com^$removeparam=f
-||www.baidu.com^$removeparam=tn
+||www.baidu.com^$removeparam=inputT
+||www.baidu.com^$removeparam=oq
 ||www.baidu.com^$removeparam=rqid
+||www.baidu.com^$removeparam=rqlang
 ||www.baidu.com^$removeparam=rsf
+||www.baidu.com^$removeparam=rsv_bp
+||www.baidu.com^$removeparam=rsv_btype
+||www.baidu.com^$removeparam=rsv_dl
+||www.baidu.com^$removeparam=rsv_enter
 ||www.baidu.com^$removeparam=sa
+||www.baidu.com^$removeparam=tn
 ||www.baidu.com^$removeparam=usm
+
+
+||www.bing.com/search^$removeparam=FORM
+||www.bing.com/search^$removeparam=PC
+||www.bing.com/search^$removeparam=gs_lcrp
+||www.bing.com/search^$removeparam=pglt
+||www.bing.com/search^$removeparam=rdr
+||www.bing.com/search^$removeparam=rdrig
 
 github.com##.Box-sc-g0xbh4-0.bDcVHV:has-text(cirosantilli)
 github.com##.Box-sc-g0xbh4-0.bDcVHV:has-text(cheezcharmer)
